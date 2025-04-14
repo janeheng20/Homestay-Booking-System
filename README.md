@@ -4,7 +4,6 @@
 
 Welcome to the **Four/H/ Homestay Booking System**, a simple C-based program that allows users to book rooms at a homestay. The program lets customers choose from a variety of room types and apply discounts if eligible. The program then calculates and displays the total bill based on the room selected, number of days, and any applicable discounts.
 
----
 
 ## Features
 
