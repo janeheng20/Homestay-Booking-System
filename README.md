@@ -23,7 +23,7 @@ Welcome to the **Four/H/ Homestay Booking System**, a simple C-based program tha
    - Number of days
    - Utility bills (fixed at RM 50 per day)
 
----
+
 
 ## How to Use the Program
 
